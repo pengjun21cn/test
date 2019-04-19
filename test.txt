@@ -1,0 +1,3 @@
+
+ Note that the only valid version of the GPL as far as this project
+ 
